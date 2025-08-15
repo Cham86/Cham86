@@ -34,7 +34,7 @@ Learning path:
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/cberrached)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cberrached)  
 [![Email](https://img.shields.io/badge/Email-me-orange)](mailto:c.berrached@gmail.com)  
 
 ---
