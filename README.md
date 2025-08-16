@@ -40,4 +40,4 @@ Learning path:
 ---
 
 💡 *"In RF we trust, in software we evolve."*
-## Hi there 👋
+
